@@ -1,5 +1,5 @@
 google-generativeai
 python-dotenv
 wikipedia
-duckduckgo-search
+ddgs
 streamlit
